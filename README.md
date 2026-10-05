@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meuhle
-- 👀 IT Engineer,  having fun with microcontrollers, mobile app and other cool stuff
+- 👀 IT Engineer,  having fun with microcontrollers, mobile app and other cool stuff, lately doing some Networking and Cybersecurity 
 - 🌱 Having fun with some code in particular Microcotroller (Arduino, SMT32, ESP32) , App Development (Flutter , Dart),DB development and management(SQL),  and correcting old stuff from school in any language i learned (Python, C, C++, C#, JavaScript, HMTL, Java...)
 - 📫 How to reach me mu.alex@proton.me
 
